@@ -5,7 +5,7 @@
   <groupId>org.sonarqube.l10n.spanish</groupId>
   <artifactId>sonar-l10n-spanish-plugin</artifactId>
   <packaging>sonar-plugin</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <name>L10n - Spanish Pack</name>
   <inceptionYear>2025</inceptionYear>
