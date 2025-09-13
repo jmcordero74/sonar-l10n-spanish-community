@@ -1,3 +1,10 @@
+## ¡Apóyame!
+
+Si te gusta este proyecto y quieres apoyarme, ¡puedes hacerlo a través de GitHub Sponsors!
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-Donate-yellowgreen)]([https://github.com/sponsors/TuNombreDeUsuario](https://github.com/sponsors/jmcordero74))
+
+
 # SonarQube Spanish Language Pack (Community Maintained)
 
 Este plugin proporciona la **traducción al español de la interfaz de SonarQube**, actualizado y mantenido para las versiones modernas de la plataforma.
